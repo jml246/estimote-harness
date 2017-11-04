@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\jose\.android\build-cache\141a88404ce460358e03d2840eafe17905fea2db\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="C:\Users\jose\Desktop\Beacon\app\build\intermediates\pre-dexed\debug\classes_bb427428b95e49cacbb032677662cb3b8473f184.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\jose\.android\build-cache\a8f882c3c8894be954230fb09a3ccfd58ef2ffc5\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="C:\Users\jose\Desktop\Beacon\app\build\intermediates\pre-dexed\debug\classes_23f1da2bb6d9d61a7f957ccb7b97a257e73ba497.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\jose\.android\build-cache\598afeb0f7ae984002f2492d0c87fa51fbd4c145\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="C:\Users\jose\Desktop\Beacon\app\build\intermediates\pre-dexed\debug\classes_e79a7c7e01292b89c4d45c7b3fc6c5afcaa164c3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\jose\.android\build-cache\06bf0f63d0245364166c5aa79b7d537dc3fae490\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="C:\Users\jose\Desktop\Beacon\app\build\intermediates\pre-dexed\debug\classes_05027a8a7686a6f94cfd77426bde7600acbc3e42.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\jose\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="C:\Users\jose\Desktop\Beacon\app\build\intermediates\pre-dexed\debug\support-annotations-25.3.1_13b2e31ce783c28e2b3986085dee4746a6de701c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\jose\.android\build-cache\ea732620127cb3b01e165535b660be6bcf0f1001\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\jose\Desktop\Beacon\app\build\intermediates\pre-dexed\debug\classes_8a72b68edd4efa042092f686e5d64600d2b5bc71.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\jose\.android\build-cache\042938839d025ddf7d244236e283df084bdd15da\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="C:\Users\jose\Desktop\Beacon\app\build\intermediates\pre-dexed\debug\classes_b5310a795cf61cb5d4cf8925105e0ed63a18f76d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\jose\.android\build-cache\8cbf57314d056ed7803f78a7c2795f69b7d92cdf\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="C:\Users\jose\Desktop\Beacon\app\build\intermediates\pre-dexed\debug\classes_75dd4ed6ca5b6fc46fe060141b523aef06a0f8a5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\jose\.android\build-cache\d05df7ba3c629ec74da1eb17e6778435bf007d21\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="C:\Users\jose\Desktop\Beacon\app\build\intermediates\pre-dexed\debug\classes_8ae1fa26f9d023c1c621321f256653ba2f6c0980.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\jose\.android\build-cache\7b277629426605bc8d6ae1a115e75ec2edf038c4\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="C:\Users\jose\Desktop\Beacon\app\build\intermediates\pre-dexed\debug\classes_06bc219cdf037328f7bbfb3354a1a33cb303c7e2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\jose\.android\build-cache\9f66717e6fa1f764c6c795d7062b140c009c65aa\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="C:\Users\jose\Desktop\Beacon\app\build\intermediates\pre-dexed\debug\classes_682185e098ec107d66aa50dea99bc0d8183d69ac.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\jose\.android\build-cache\f5ab7c8c1c4e06224000a3004e442f71594d75cf\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="640af651fe94032b8f34112aabd351df29d3e2df">
+        <dex dex="C:\Users\jose\Desktop\Beacon\app\build\intermediates\pre-dexed\debug\classes_a6e896440cdbea81d853079fe62103acea5941e1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\jose\AppData\Local\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="C:\Users\jose\Desktop\Beacon\app\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.2_c403c716526fb8ae1c5a0791dde8ce4556660488.jar" />
+    </item>
+
+</items>
